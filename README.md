@@ -22,12 +22,8 @@ StudentOS combines a polished dashboard, task organization, and study-session su
 
 ## Screenshots
 
-Use these preview placeholders for your GitHub page, then replace them with your real captures when ready.
 
-- [Dashboard preview](screenshots/01-dashboard.svg)
-- [Courses preview](screenshots/02-courses.svg)
-- [Assignments preview](screenshots/03-assignments.svg)
-- [Profile preview](screenshots/04-profile.svg)
+
 
 ## Tech Stack
 
